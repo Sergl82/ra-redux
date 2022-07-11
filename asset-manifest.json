@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-redux/static/css/main.1669d8f4.css",
+    "main.js": "/ra-redux/static/js/main.4d400e2c.js",
+    "index.html": "/ra-redux/index.html",
+    "main.1669d8f4.css.map": "/ra-redux/static/css/main.1669d8f4.css.map",
+    "main.4d400e2c.js.map": "/ra-redux/static/js/main.4d400e2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1669d8f4.css",
+    "static/js/main.4d400e2c.js"
+  ]
+}
